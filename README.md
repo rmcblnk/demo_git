@@ -2,4 +2,4 @@
 Une demo de git qui se passe pas trop mal !
 
 Et maintenant, modification depuis Github
-et ensuite depuis local!!
+et ensuite depuis local et ça marche bien !!
